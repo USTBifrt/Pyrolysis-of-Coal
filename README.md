@@ -1,0 +1,1 @@
+This repository contains the scripts for the distribution of pyrolysis products and the breaking of chemical bonds, as well as the raw data used in the paper "Molecular Insights into Bituminous Coals Pyrolysis: A Combined Study Using Spectroscopic Techniques, Thermogravimetric-Mass Spectrometry, and ReaxFF Molecular Dynamics Simulations".
